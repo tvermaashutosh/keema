@@ -1,0 +1,57 @@
+@media (min-width:1000px) {
+  .h1 {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .hhh2 {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+  }
+
+  .hhhh1{
+    width: 230px;
+  }
+
+  .hhhh3 {
+    margin-left: 8px;
+  }
+
+  .hh2 {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+
+  .heacc4 {
+    margin-top: 15px;
+  }
+
+  .hom1{
+    flex-direction: row;
+  }
+}
+
+@media (max-width:999px) {
+  .heaccc1 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .heaccc2 {
+    margin-top: 4px;
+  }
+
+  .heacc3 {
+    margin-top: 5px;
+  }
+
+  .heacc4 {
+    margin-top: 6px;
+  }
+
+  .hom1{
+    flex-direction: column;
+  }
+}
